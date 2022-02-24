@@ -28,8 +28,7 @@ The first objective of this project is to recognize **key factors that will use 
 * Results
 * Other Approaches
 * Business Recommendations
-
-
+#### - [Presentation Link](https://drive.google.com/file/d/1mWW14-DHi0TUWcxMHVEowokwnn2Z9jvZ/view?usp=sharing)
 ------------------------------------------------------------------------------------------------------------------
 
 ## Dataset Overview
